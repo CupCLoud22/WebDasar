@@ -1,1 +1,1 @@
-This file contains the results of the learning process until the HTML deepening module.
+The file contains the results of the CSS deepening module learning process.
